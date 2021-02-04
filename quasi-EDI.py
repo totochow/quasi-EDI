@@ -34,10 +34,10 @@ ArchivePath = 'M:\\TC\\Freshline\\Archived Orders\\'
 ErrorPath = 'M:\\TC\\Freshline\\Error Orders\\' 
 LogPath = 'M:\\TC\\Freshline\\Orders Log\\Logs.txt'
 driver = webdriver.Chrome(ChromeDriverPATH)
-driver.get("https://7seas.moniroo.com/")
+driver.get(** Removed for privacy reason **)
 
-FISH1 ="Seven Seas Fish Co Ltd."
-TFISH = "Seven Seas Fish Co Ltd. (TEST)"
+FISH1 =** Removed for privacy reason **
+TFISH =** Removed for privacy reason **
 
 #!! SELECT SERVER HERE !!#
 ##########################
