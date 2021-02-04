@@ -2,7 +2,7 @@
 Using Python to simulate an EDI process.
 This little Python Script acts as bridge to upload orders into our ERP system when orders came in as an csv file
 
-there are a few things got accomplished
+This script accomplishes a few things:
 1) Read csv file and order details
 2) simulate what a sales entry person would do when entering an order
 3) archieving already entered csv orders, if there are any error, the csv file will be moved to an error folder to be looked at later
