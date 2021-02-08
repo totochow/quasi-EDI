@@ -102,7 +102,7 @@ def WriteLog(msg):
 ## Opening Sales Data Entry Link ##
 def OpenSales():
     time.sleep(mp)
-    driver.get("https://7seas.moniroo.com/V5/sales/create")
+    driver.get(** Removed for privacy reason **)
 
 
 
