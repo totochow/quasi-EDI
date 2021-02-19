@@ -190,8 +190,8 @@ def ReadLoopFiles(path):
 
 
 ## do these things ##
-
-
 LogIn()
 ReadLoopFiles(FreshlinePath)
-driver.close()
+
+driver.quit()
+sys.exit(0)
