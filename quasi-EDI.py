@@ -64,7 +64,7 @@ sp = .75
 ## Functions to be called ##
 ## Log in ##
 def LogIn():
-    himitsu = open("M:\\TC\\Freshline\\Control Files\\himitsu.txt", "r")
+    himitsu = open(** Removed for privacy reason **, "r")
     UserID = re.search('(?<=L:)\S+',re.findall(r'L:.*', himitsu.read())[0])[0]
     himitsu.seek(0)
     Password = re.search('(?<=P:)\S+',re.findall(r'P:.*', himitsu.read())[0])[0]
